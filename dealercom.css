@@ -290,7 +290,7 @@ a:active {
 }
 .body-wrap .boxed-container h1 {
   clear: both;
-  color: #202932;
+  color: black;
   font-size: 42px;
   line-height: 52px;
   letter-spacing: -0.1px;
@@ -301,7 +301,7 @@ a:active {
 }
 .body-wrap .boxed-container h2 {
   clear: both;
-  color: #202932;
+  color: black;
   font-family: "Arimo", sans-serif;
   font-weight: 700;
   font-size: 38px;
@@ -312,7 +312,7 @@ a:active {
 }
 .body-wrap .boxed-container h3 {
   clear: both;
-  color: #202932;
+  color: black;
   font-family: "Arimo", sans-serif;
   font-weight: 700;
   font-size: 32px;
@@ -379,6 +379,7 @@ a:active {
   margin-top: 0;
   margin-bottom: 24px;
   font-size: 20px;
+  color: black;
 }
 @media screen and (max-width: 1550px) {
   .body-wrap.boxed-container h1 {
