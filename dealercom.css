@@ -387,6 +387,12 @@ a:active {
   }
 }
 
+@media screen and (min-width: 1551px) {
+  .body-wrap.boxed-container ul li {
+    font-size: 20px;
+  }
+}
+
 @media screen and (max-width: 1550px) {
   .body-wrap.boxed-container h2 {
     font-size: 2em;
