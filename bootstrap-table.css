@@ -40,7 +40,7 @@ body {
 }
 
 #generic_price_table {
-  background-color: #f0eded;
+  background-color: #fff;
 }
 
 /*PRICE COLOR CODE START*/
@@ -113,12 +113,12 @@ body {
 }
 #generic_price_table .generic_content .generic_feature_list ul li:hover {
   background-color: #e4e4e4;
-  border-left: 5px solid #2ecc71;
+  border-left: 5px solid #007cc2;
 }
 
 #generic_price_table .generic_content .generic_price_btn a {
-  border: 1px solid #2ecc71;
-  color: #2ecc71;
+  border: 1px solid #007cc2;
+  color: #007cc2;
 }
 
 #generic_price_table
@@ -131,7 +131,7 @@ body {
   .generic_head_price
   .generic_head_content
   .head_bg {
-  border-color: #2ecc71 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #2ecc71;
+  border-color: #007cc2 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #007cc2;
   color: #fff;
 }
 
@@ -152,7 +152,7 @@ body {
 
 #generic_price_table .generic_content:hover .generic_price_btn a,
 #generic_price_table .generic_content.active .generic_price_btn a {
-  background-color: #2ecc71;
+  background-color: #007cc2;
   color: #fff;
 }
 #generic_price_table {
@@ -426,7 +426,7 @@ body {
   transition: all 0.3s ease-in-out 0s;
 }
 #generic_price_table_home .emerald {
-  background: #2ecc71;
+  background: #007cc2;
   transition: all 0.3s ease-in-out 0s;
 }
 #generic_price_table_home .grey {
