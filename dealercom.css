@@ -607,15 +607,6 @@ strong {
 .container-sm {
   width: 100%;
   margin: 0 auto;
-  padding-left: 16px;
-  padding-right: 16px;
-}
-@media (min-width: 481px) {
-  .container,
-  .container-sm {
-    padding-left: 24px;
-    padding-right: 24px;
-  }
 }
 .container {
   max-width: 1128px;
@@ -625,8 +616,6 @@ strong {
 }
 .container .container-sm {
   max-width: 800px;
-  padding-left: 0;
-  padding-right: 0;
 }
 .screen-reader-text {
   clip: rect(1px, 1px, 1px, 1px);
