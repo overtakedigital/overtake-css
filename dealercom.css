@@ -257,11 +257,11 @@ html {
 body {
   color: #333e4a;
 }
-body,
-button,
-input,
-select,
-textarea {
+.body-wrap.boxed-container body,
+.body-wrap.boxed-container button,
+.body-wrap.boxed-container input,
+.body-wrap.boxed-container select,
+.body-wrap.boxed-container textarea {
   font-family: "Oxygen", sans-serif;
 }
 a {
