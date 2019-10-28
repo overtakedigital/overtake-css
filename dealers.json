@@ -1,56 +1,156 @@
 {
-    "Dealers:": {
-        "Shavers Preferred Motors": {},
-        "Genfare": {},
-        "Roesch CDJR": {},
-        "Roesch Ford": {},
-        "Keystone Chevy": {},
-        "New Wave Auto Sales": {},
-        "Green Volkswagen": {},
-        "Green Audi": {},
-        "Green Toyota": {},
-        "Headquarter Honda": {},
-        "Castle": {},
-        "Herrin-Gear Infiniti": {},
-        "Pugi Mazda": {},
-        "Pugi Hyundai": {},
-        "Pugi Genesis": {},
-        "Pugi Volkswagen": {},
-        "Ron Westphal Chevrolet": {},
-        "Castle Honda": {},
-        "Northgate CDJR": {},
-        "Beverly Hills Porsche": {},
-        "Rizza Buick GMC": {},
-        "Rizza Cadillac": {},
-        "Terry Lee Hyundai": {},
-        "Eskridge Lexus": {},
-        "Eskridge Chevrolet": {},
-        "Uebelhor Auto Group": {},
-        "Uebelhor Buick GMC Vincennes": {},
-        "Uebelhor Cadillac Chevrolet Jasper": {},
-        "Uebelhor Toyota": {},
-        "Uebelhor Commerical": {},
-        "Arlington Toyota": {},
-        "Demmer Lincoln": {},
-        "Demmer Ford": {},
-        "Gulf Coast Auto": {},
-        "Hollingsworth Richards Ford": {},
-        "Baron Honda": {},
-        "Dick Edwards": {},
-        "Marshfield Chevrolet": {},
-        "Headquarter Genesis": {},
-        "McCloskey Motors": {},
-        "Car Credit Giant": {},
-        "Headquarter Hyundai": {},
-        "Ellison Agency": {},
-        "Renew Roofing": {},
-        "McGrath Honda Elgin": {},
-        "Lighthouse Buick GMC": {},
-        "Mancari's": {},
-        "Access Lincoln": {},
-        "Auto Park Bosch Service Center": {},
-        "Gillis Auto Center": {},
-        "US Auto Sales": {},
-        "Crossroads GM": {}
-    }
+    "Dealers": [{
+        "Dealer_ID": 1,
+        "Dealer_Name": "Shavers Preferred Motors"
+    }, {
+        "Dealer_ID": 2,
+        "Dealer_Name": "Genfare"
+    }, {
+        "Dealer_ID": 3,
+        "Dealer_Name": "Roesch CDJR"
+    }, {
+        "Dealer_ID": 4,
+        "Dealer_Name": "Roesch Ford"
+    }, {
+        "Dealer_ID": 5,
+        "Dealer_Name": "Keystone Chevy"
+    }, {
+        "Dealer_ID": 6,
+        "Dealer_Name": "New Wave Auto Sales"
+    }, {
+        "Dealer_ID": 7,
+        "Dealer_Name": "Green Volkswagen"
+    }, {
+        "Dealer_ID": 8,
+        "Dealer_Name": "Green Audi"
+    }, {
+        "Dealer_ID": 9,
+        "Dealer_Name": "Green Toyota"
+    }, {
+        "Dealer_ID": 10,
+        "Dealer_Name": "Headquarter Honda"
+    }, {
+        "Dealer_ID": 11,
+        "Dealer_Name": "Herrin-Gear Infiniti"
+    }, {
+        "Dealer_ID": 12,
+        "Dealer_Name": "Pugi Mazda"
+    }, {
+        "Dealer_ID": 13,
+        "Dealer_Name": "Pugi Hyundai"
+    }, {
+        "Dealer_ID": 14,
+        "Dealer_Name": "Pugi Genesis"
+    }, {
+        "Dealer_ID": 15,
+        "Dealer_Name": "Pugi VW"
+    }, {
+        "Dealer_ID": 16,
+        "Dealer_Name": "Ron Westphal Chevrolet"
+    }, {
+        "Dealer_ID": 17,
+        "Dealer_Name": "Castle Honda"
+    }, {
+        "Dealer_ID": 18,
+        "Dealer_Name": "Northgate CDJR"
+    }, {
+        "Dealer_ID": 19,
+        "Dealer_Name": "Beverly Hills Porsche"
+    }, {
+        "Dealer_ID": 20,
+        "Dealer_Name": "Rizza Buick GMC"
+    }, {
+        "Dealer_ID": 21,
+        "Dealer_Name": "Rizza Cadillac"
+    }, {
+        "Dealer_ID": 22,
+        "Dealer_Name": "Terry Lee Hyundai"
+    }, {
+        "Dealer_ID": 23,
+        "Dealer_Name": "Eskridge Lexus"
+    }, {
+        "Dealer_ID": 24,
+        "Dealer_Name": "Eskridge Chevrolet"
+    }, {
+        "Dealer_ID": 25,
+        "Dealer_Name": "Uebelhor Auto Group"
+    }, {
+        "Dealer_ID": 26,
+        "Dealer_Name": "Uebelhor Buick GMC Vincennes"
+    }, {
+        "Dealer_ID": 27,
+        "Dealer_Name": "Uebelhor Cadillac Chevrolet Jasper"
+    }, {
+        "Dealer_ID": 28,
+        "Dealer_Name": "Uebelhor Toyota"
+    }, {
+        "Dealer_ID": 29,
+        "Dealer_Name": "Uebelhor Commerical"
+    }, {
+        "Dealer_ID": 30,
+        "Dealer_Name": "Arlington Toyota"
+    }, {
+        "Dealer_ID": 31,
+        "Dealer_Name": "Demmer Lincoln"
+    }, {
+        "Dealer_ID": 32,
+        "Dealer_Name": "Demmer Ford"
+    }, {
+        "Dealer_ID": 33,
+        "Dealer_Name": "Gulf Coast Auto"
+    }, {
+        "Dealer_ID": 34,
+        "Dealer_Name": "Hollingsworth Richards Ford"
+    }, {
+        "Dealer_ID": 35,
+        "Dealer_Name": "Baron Honda"
+    }, {
+        "Dealer_ID": 36,
+        "Dealer_Name": "Dick Edwards"
+    }, {
+        "Dealer_ID": 37,
+        "Dealer_Name": "Marshfield Chevrolet"
+    }, {
+        "Dealer_ID": 38,
+        "Dealer_Name": "Headquarter Genesis"
+    }, {
+        "Dealer_ID": 39,
+        "Dealer_Name": "McCloskey Motors"
+    }, {
+        "Dealer_ID": 40,
+        "Dealer_Name": "Car Credit Giant"
+    }, {
+        "Dealer_ID": 41,
+        "Dealer_Name": "Headquarter Hyundai"
+    }, {
+        "Dealer_ID": 42,
+        "Dealer_Name": "Ellison Agency"
+    }, {
+        "Dealer_ID": 43,
+        "Dealer_Name": "Renew Roofing"
+    }, {
+        "Dealer_ID": 44,
+        "Dealer_Name": "McGrath Honda Elgin"
+    }, {
+        "Dealer_ID": 45,
+        "Dealer_Name": "Lighthouse Buick GMC"
+    }, {
+        "Dealer_ID": 46,
+        "Dealer_Name": "Mancari's CDJR"
+    }, {
+        "Dealer_ID": 47,
+        "Dealer_Name": "Access Lincoln"
+    }, {
+        "Dealer_ID": 48,
+        "Dealer_Name": "Auto Park Bosch Service Center"
+    }, {
+        "Dealer_ID": 49,
+        "Dealer_Name": "Gillis Auto Center"
+    }, {
+        "Dealer_ID": 50,
+        "Dealer_Name": "US Auto Sales"
+    }, {
+        "Dealer_ID": 51,
+        "Dealer_Name": "Crossroads GM"
+    }]
 }
