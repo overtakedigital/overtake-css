@@ -1,0 +1,57 @@
+.ddc-page-title {
+    display: none;
+}
+
+.section {
+    padding: 16px 0;
+}
+
+.ot-section-dark {
+    background-color: #eee;
+    border-bottom: 2px solid #ddd;
+    padding: 24px;
+}
+
+.ot-heading {
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+
+.ot-row {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.performance-top {
+    position: relative;
+}
+
+.performance-top__content {
+    padding-top: 16px;
+}
+
+.ot-why {
+    background-color: #324047;
+    color: #fff;
+    padding: 24px;
+}
+
+@media (min-width: 760px) {
+    .performance-top {
+        margin-bottom: 16px;
+    }
+
+    .performance-top__content {
+        color: #fff;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background: linear-gradient(rgba(0, 0, 0, 0), #000);
+        padding: 16px;
+        display: flex;
+        align-items: flex-end;
+    }
+}
