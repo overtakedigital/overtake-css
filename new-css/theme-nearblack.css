@@ -561,25 +561,13 @@ ul.lead li {
   color: #fff;
 }
 /*!---------- 5. SECTIONS ----------*/
-section,
-footer {
-  padding: 96px 0;
-  position: relative;
-  overflow: hidden;
-}
-footer {
-  padding: 72px 0;
-}
+
 .fullscreen {
   height: 100vh;
 }
 
 
-@media all and (max-width: 767px) {
-  section {
-    padding: 80px 0;
-  }
-}
+
 .overlay:before {
   position: absolute;
   content: '';
@@ -3734,12 +3722,7 @@ video {
     margin: 0;
   }
 }
-section + .portfolio-pullup {
-  padding-top: 0;
-  margin-top: -128px;
-  position: relative;
-  z-index: 20;
-}
+
 .portfolio-pullup .project {
   margin-bottom: 0;
 }
