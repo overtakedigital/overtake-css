@@ -63,9 +63,6 @@ body.boxed-layout,
 .boxed-layout .main-container,
 .boxed-layout nav {
     max-width: 1366px;
-    
-    left: 0;
-    right: 0;
 }
 
 ul {
@@ -2739,29 +2736,28 @@ button[type="submit"] .form-loading {
 }
 
 .widget .flex-direction-nav li a {
-    width: 16px;
-    height: 16px;
+  
    
 }
 
 .widget .flex-direction-nav li a:before {
-    font-size: 16px;
+   
 }
 
 .widget .flex-direction-nav li a.flex-next {
-    right: 8px;
+   
 }
 
 .widget .flex-direction-nav li a.flex-prev {
-    left: 8px;
+ 
 }
 
 .widget .flex-control-nav {
-    display: none;
+   
 }
 
 .widget .image-slider {
-    margin: 0;
+   
 }
 
 /*!---------- 22. IMAGE TILES ----------*/
@@ -3057,7 +3053,7 @@ img {
 }
 
 .flex-direction-nav a.flex-next {
-    right: 16px;
+   
 }
 
 .flex-direction-nav a.flex-next:before,
@@ -3075,7 +3071,7 @@ img {
 }
 
 .flex-direction-nav a.flex-prev {
-    left: 16px;
+    
 }
 
 .flex-direction-nav a.flex-prev:before {
@@ -3086,19 +3082,18 @@ img {
     opacity: 1;
     text-shadow: none;
     color: rgba(0, 0, 0, 0);
-    width: 24px;
-    height: 24px;
+  
     
 }
 
 .flex-control-nav li {
-    overflow: hidden;
+   
 }
 
 .flex-control-nav li a {
     background: none;
     border: 2px solid #292929;
-    width: 10px;
+   
     
 
 }
@@ -3110,7 +3105,7 @@ img {
 }
 
 .controls-inside .flex-control-nav {
-    bottom: 24px;
+ 
     z-index: 10;
 }
 
@@ -3131,7 +3126,7 @@ img {
 }
 
 .slider-thumb-controls .flex-control-thumbs {
-    margin: 0;
+    
 }
 
 .slider-thumb-controls .flex-direction-nav {
@@ -3190,11 +3185,12 @@ img {
 }
 
 .text-slider .flex-direction-nav a.flex-prev {
-    left: -60px;
+  
 }
 
 .text-slider .flex-direction-nav a.flex-next {
-    right: -60px;
+    
+
 }
 
 .kenburns .slides li:nth-of-type(odd) .background-image-holder {
@@ -3394,7 +3390,7 @@ img {
 
 .lb-nav a.lb-next:before,
 .lb-nav a.lb-prev:before {
-    position: absolute;
+  
     top: 50%;
     font-size: 32px;
     
@@ -3402,25 +3398,24 @@ img {
 
 .lb-nav a.lb-next:before {
     content: "\e649";
-    right: 16px;
+  
 }
 
 .lb-nav a.lb-prev:before {
     content: "\e64a";
-    left: 16px;
+  
 }
 
 .flickr-feed li {
-    width: 25%;
-    padding: 8px;
+   
 }
 
 .flickr-feed li.masonry-item {
-    margin-bottom: 0;
+    
 }
 
 .flickr-feed li img {
-    min-width: 100%;
+    
 }
 
 @media all and (max-width: 990px) {
