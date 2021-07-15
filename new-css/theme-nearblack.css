@@ -1434,7 +1434,7 @@ select:hover {
 
     input.col-md-6:first-of-type,
     button.col-md-6:first-of-type {
-        
+        margin-right: 1%;
     }
 
     input.col-md-6:last-of-type,
