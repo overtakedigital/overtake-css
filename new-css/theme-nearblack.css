@@ -1732,7 +1732,7 @@ button[type="submit"] .form-loading {
 
 .button-tabs .tabs {
     
-    
+    overflow: hidden;
 }
 
 .button-tabs .tabs>li {
