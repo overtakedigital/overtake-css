@@ -1731,7 +1731,7 @@ button[type="submit"] .form-loading {
 }
 
 .button-tabs .tabs {
-    
+    display: inline-block;
     overflow: hidden;
 }
 
