@@ -1741,7 +1741,7 @@ button[type="submit"] .form-loading {
 }
 
 .button-tabs .tabs>li:last-child {
-   
+    margin-right: 0;
 }
 
 .button-tabs .tab-title {
