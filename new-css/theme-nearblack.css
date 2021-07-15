@@ -2051,7 +2051,7 @@ button[type="submit"] .form-loading {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 700;
-    
+    display: inline-block;
     margin-bottom: 8px;
 }
 
