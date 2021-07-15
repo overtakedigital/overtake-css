@@ -1714,7 +1714,7 @@ button[type="submit"] .form-loading {
 }
 
 .tabs li {
-    
+    display: inline-block;
     cursor: pointer;
 }
 
