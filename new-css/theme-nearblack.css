@@ -103,12 +103,23 @@ hr.short-thick {
     display: inline-block;
 }
 
+.list-inline {
+    margin-left: 0;
+}
 
 
 
+.list-inline>li:last-child {
+    padding-right: 0;
+}
 
+.list-inline>li:first-child {
+    padding-left: 0;
+}
 
-
+.bg-primary .list-inline i {
+    color: #3b4b5b;
+}
 
 .overflow-hidden {
     overflow: hidden;
