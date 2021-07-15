@@ -100,7 +100,7 @@ hr.short-thick {
 }
 
 .inline-block {
-    display: inline-block;
+    
 }
 
 
@@ -145,13 +145,13 @@ hr.short-thick {
 }
 
 .spread-children * {
-    display: inline-block;
+    
     margin-left: 12px;
     margin-right: 12px;
 }
 
 .spread-children-large * {
-    display: inline-block;
+    
     margin-left: 24px;
     margin-right: 24px;
 }
@@ -161,7 +161,7 @@ hr.short-thick {
 }
 
 .vnu {
-    display: inline;
+    
 }
 
 .row-gapless>div[class*='col-'] {
@@ -610,7 +610,7 @@ ul[data-bullet] li i:first-child {
     margin-right: 16px;
     transform: scale(1.5);
     -webkit-transform: scale(1.5);
-    display: inline-block;
+    
 }
 
 ul.lead li {
@@ -1037,7 +1037,7 @@ body.btn-rounded .btn {
 /*!---------- 10. ICONS ----------*/
 .icon {
     font-size: 64px;
-    display: inline-block;
+    
     color: #292929;
 }
 
@@ -1339,7 +1339,7 @@ select:hover {
 
 .checkbox-option,
 .radio-option {
-    display: inline-block;
+    
     width: 50px;
     height: 25px;
     border-radius: 25px;
@@ -1364,7 +1364,7 @@ select:hover {
     position: relative;
     top: 2px;
     left: 2px;
-    display: inline-block;
+    
     transition: all 0.2s ease;
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
@@ -1411,7 +1411,7 @@ select:hover {
 }
 
 .radio-option+span {
-    display: inline-block;
+    
     line-height: 25px;
 }
 
@@ -1553,7 +1553,7 @@ form iframe.mail-list-form {
 button[type="submit"] .form-loading {
     height: 25px;
     width: 25px;
-    display: inline-block;
+    
     top: 9px;
     position: relative;
     left: 0;
@@ -1746,7 +1746,7 @@ button[type="submit"] .form-loading {
 
 .button-tabs .tab-title {
     
-    display: inline-block;
+    
     text-align: center;
     min-width: 150px;
     background: #f5f5f5;
@@ -2051,7 +2051,7 @@ button[type="submit"] .form-loading {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 700;
-    display: inline-block;
+    
     margin-bottom: 8px;
 }
 
@@ -2222,7 +2222,7 @@ button[type="submit"] .form-loading {
 }
 
 .feature-1 i {
-    display: inline-block;
+    
     margin-bottom: 16px;
     color: #13181d;
 }
@@ -2261,7 +2261,7 @@ button[type="submit"] .form-loading {
 
 .feature-3 .left,
 .feature-3 .right {
-    display: inline-block;
+    
     float: left;
 }
 
@@ -2403,7 +2403,7 @@ button[type="submit"] .form-loading {
     line-height: 80px;
     font-weight: 300;
     color: #292929;
-    display: inline-block;
+    
     margin-bottom: 16px;
 }
 
@@ -2534,7 +2534,7 @@ button[type="submit"] .form-loading {
     text-transform: none;
     line-height: 1;
     font-size: 11px;
-    display: inline-block;
+    
     margin-left: 8px;
 }
 
@@ -2632,7 +2632,7 @@ button[type="submit"] .form-loading {
     position: relative;
     top: 6px;
     float: left;
-    display: inline-block;
+    
     margin-right: 8px;
     color: #292929;
     content: "\e74b";
@@ -2657,7 +2657,7 @@ button[type="submit"] .form-loading {
 
 .widget .instafeed li {
     width: 33.3333%;
-    display: inline-block;
+    
     padding: 0 4px 4px 0;
 }
 
@@ -2671,7 +2671,7 @@ button[type="submit"] .form-loading {
 }
 
 .widget .cart-overview .description {
-    display: inline-block;
+    
     width: auto;
     line-height: 24px;
 }
@@ -2740,7 +2740,7 @@ img {
 
 .image-tile img {
     width: 100%;
-    display: inline-block;
+    
 }
 
 .image-tile .label {
@@ -2851,7 +2851,7 @@ img {
 }
 
 .outer-title img {
-    display: inline-block;
+    
     margin-bottom: 12px;
 }
 
@@ -2952,7 +2952,7 @@ img {
 .tile-right {
     width: 50%;
     float: left;
-    display: inline-block;
+    
     overflow: hidden;
     min-height: 300px;
     position: relative;
@@ -3232,7 +3232,7 @@ img {
 
 .instafeed.grid-gallery li {
     width: 25%;
-    display: inline-block;
+    
     float: left;
     padding: 8px;
     transition: all 0.3s ease;
@@ -3511,7 +3511,7 @@ img {
     font-size: 32px;
     font-weight: 300;
     line-height: 40px;
-    display: inline-block;
+    
     margin-right: 32px;
 }
 
@@ -3546,7 +3546,7 @@ td {
 }
 
 .ratings li {
-    display: inline-block;
+    
     background: #f8f8f8;
     padding: 24px;
     margin-bottom: 16px;
@@ -3559,12 +3559,12 @@ td {
 
 .star-rating {
     margin: 0;
-    display: inline-block;
+    
     margin-right: 24px;
 }
 
 .ratings .user span {
-    display: inline-block;
+    
     margin-right: 8px;
 }
 
@@ -3624,11 +3624,11 @@ td {
 }
 
 .cart span {
-    display: inline-block;
+    
 }
 
 .cart .remove-item {
-    display: inline-block;
+    
     width: 24px;
     height: 24px;
     position: relative;
@@ -3838,7 +3838,7 @@ video {
     left: 0;
     margin-top: 0;
     margin-left: 0;
-    display: inline-block;
+    
     z-index: 0;
 }
 
@@ -3952,7 +3952,7 @@ video {
 .embed-video-container {
     width: 100%;
     position: relative;
-    display: inline-block;
+    
 }
 
 .embed-video-container iframe {
@@ -4020,7 +4020,7 @@ video {
 .post-meta,
 .post-meta .tags {
     overflow: hidden;
-    display: inline-block;
+    
     margin-bottom: 12px;
 }
 
@@ -4071,7 +4071,7 @@ video {
 
 .comments-list .avatar,
 .comments-list .comment {
-    display: inline-block;
+    
     float: left;
 }
 
@@ -4089,7 +4089,7 @@ video {
 }
 
 .comments-list .author {
-    display: inline-block;
+    
     margin-right: 16px;
     margin-bottom: 16px;
 }
@@ -4197,7 +4197,7 @@ video {
     -moz-animation: spin 0.7s linear infinite;
     -webkit-animation: spin 0.7s linear infinite;
     animation: spin 0.7s linear infinite;
-    display: inline-block;
+    
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -4229,7 +4229,7 @@ video {
 @media all and (max-width: 767px) {
     .post-title .label {
         margin-bottom: 8px;
-        display: inline-block;
+        
     }
 
     .post-title h4 {
@@ -4496,7 +4496,7 @@ video {
 /*!---------- 30. PORTOFLIO ----------*/
 .filters {
     overflow: hidden;
-    display: inline-block;
+    
 }
 
 .filters li {
@@ -4534,7 +4534,7 @@ video {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    display: inline-block;
+    
 }
 
 .filters li.active {
@@ -4655,7 +4655,7 @@ section+.portfolio-pullup {
 }
 
 .testimonials .quote-author {
-    display: inline-block;
+    
     text-align: left;
     overflow: hidden;
     width: 250px;
@@ -4665,12 +4665,12 @@ section+.portfolio-pullup {
 .testimonials .quote-author img {
     max-height: 60px;
     float: left;
-    display: inline-block;
+    
     margin-right: 16px;
 }
 
 .testimonials .quote-author h6 {
-    display: inline-block;
+    
     margin-bottom: 0;
     line-height: 18px;
     padding-top: 14px;
