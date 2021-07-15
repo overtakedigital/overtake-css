@@ -862,7 +862,7 @@ footer.bg-dark li,
     height: 40px;
     font-size: 20px;
     min-width: 0;
-    padding: 0;
+    
     line-height: 38px;
 }
 
@@ -886,7 +886,7 @@ footer.bg-dark li,
     line-height: 29px;
     font-size: 13px;
     min-width: 0;
-    padding: 0 0 0 1px !important;
+   
 }
 
 .btn-sm {
@@ -1429,17 +1429,17 @@ select:hover {
     input.col-md-6,
     button.col-md-6 {
         width: 49%;
-        float: left;
+        
     }
 
     input.col-md-6:first-of-type,
     button.col-md-6:first-of-type {
-        margin-right: 1%;
+        
     }
 
     input.col-md-6:last-of-type,
     button.col-md-6:last-of-type {
-        margin-left: 1%;
+        
     }
 }
 
@@ -1714,7 +1714,7 @@ button[type="submit"] .form-loading {
 }
 
 .tabs li {
-    display: inline-block;
+    
     cursor: pointer;
 }
 
@@ -1731,8 +1731,8 @@ button[type="submit"] .form-loading {
 }
 
 .button-tabs .tabs {
-    display: inline-block;
-    overflow: hidden;
+    
+    
 }
 
 .button-tabs .tabs>li {
