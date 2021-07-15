@@ -2261,7 +2261,7 @@ button[type="submit"] .form-loading {
 
 .feature-3 .left,
 .feature-3 .right {
-    
+    display: inline-block;
     float: left;
 }
 
