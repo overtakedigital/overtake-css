@@ -293,7 +293,6 @@ pre,
 table,
 blockquote,
 input,
-button,
 select,
 textarea {
     margin-bottom: 24px;
@@ -831,7 +830,7 @@ footer.bg-dark li,
 .btn {
     font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
     border: 2px solid #13181d;
-    padding: 0 26px;
+    align-items: center;
     height: 40px;
     min-width: 150px;
     line-height: 36px;
@@ -845,8 +844,7 @@ footer.bg-dark li,
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
-    margin-right: 8px;
-    margin-bottom: 24px;
+   
 }
 
 .btn:last-child,
@@ -864,7 +862,7 @@ footer.bg-dark li,
     height: 40px;
     font-size: 20px;
     min-width: 0;
-    padding: 0;
+    
     line-height: 38px;
 }
 
@@ -888,7 +886,7 @@ footer.bg-dark li,
     line-height: 29px;
     font-size: 13px;
     min-width: 0;
-    padding: 0 0 0 1px !important;
+   
 }
 
 .btn-sm {
@@ -1431,17 +1429,17 @@ select:hover {
     input.col-md-6,
     button.col-md-6 {
         width: 49%;
-        float: left;
+        
     }
 
     input.col-md-6:first-of-type,
     button.col-md-6:first-of-type {
-        margin-right: 1%;
+        
     }
 
     input.col-md-6:last-of-type,
     button.col-md-6:last-of-type {
-        margin-left: 1%;
+        
     }
 }
 
@@ -1716,7 +1714,7 @@ button[type="submit"] .form-loading {
 }
 
 .tabs li {
-    display: inline-block;
+    
     cursor: pointer;
 }
 
@@ -1733,21 +1731,21 @@ button[type="submit"] .form-loading {
 }
 
 .button-tabs .tabs {
-    display: inline-block;
-    overflow: hidden;
+    
+    
 }
 
 .button-tabs .tabs>li {
-    margin-bottom: 8px;
+    
     float: left;
 }
 
 .button-tabs .tabs>li:last-child {
-    margin-right: 0;
+   
 }
 
 .button-tabs .tab-title {
-    padding: 13px;
+    
     display: inline-block;
     text-align: center;
     min-width: 150px;
