@@ -161,7 +161,7 @@ hr.short-thick {
 }
 
 .vnu {
-    
+    display: inline;
 }
 
 .row-gapless>div[class*='col-'] {
