@@ -6013,3 +6013,7 @@ footer.bg-dark a {
 .submenu-indicator.ae-button {
     margin-bottom: 0;
   }
+
+  .di-stacks .di-action-bar, .admin-settings .di-action-bar {
+      position: absolute !important; 
+  }
