@@ -2222,7 +2222,7 @@ button[type="submit"] .form-loading {
 }
 
 .feature-1 i {
-    
+    display: inline-block;
     margin-bottom: 16px;
     color: #13181d;
 }
