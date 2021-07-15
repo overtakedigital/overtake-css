@@ -63,7 +63,7 @@ body.boxed-layout,
 .boxed-layout .main-container,
 .boxed-layout nav {
     max-width: 1366px;
-    margin: 0 auto;
+    
     left: 0;
     right: 0;
 }
@@ -2509,7 +2509,8 @@ button[type="submit"] .form-loading {
 .nav-is-overlay .page-title-2.image-bg:first-child,
 .nav-is-overlay.page-title-2.bg-dark:first-child {
     height: 455px;
-    padding-top: 55px;
+    
+    
 }
 
 @media all and (max-width: 767px) {
@@ -2536,7 +2537,7 @@ button[type="submit"] .form-loading {
 .nav-is-overlay .page-title-4.image-bg:first-child,
 .nav-is-overlay.page-title-4.bg-dark:first-child {
     height: 295px;
-    padding-top: 55px;
+    
 }
 
 @media all and (max-width: 767px) {
@@ -2740,7 +2741,7 @@ button[type="submit"] .form-loading {
 .widget .flex-direction-nav li a {
     width: 16px;
     height: 16px;
-    margin: -8px 0 0;
+   
 }
 
 .widget .flex-direction-nav li a:before {
@@ -3087,7 +3088,7 @@ img {
     color: rgba(0, 0, 0, 0);
     width: 24px;
     height: 24px;
-    margin: -12px 0 0;
+    
 }
 
 .flex-control-nav li {
@@ -3098,7 +3099,8 @@ img {
     background: none;
     border: 2px solid #292929;
     width: 10px;
-    height: 10px;
+    
+
 }
 
 @media all and (max-width: 768px) {
@@ -3395,7 +3397,7 @@ img {
     position: absolute;
     top: 50%;
     font-size: 32px;
-    margin-top: -16px;
+    
 }
 
 .lb-nav a.lb-next:before {
