@@ -1429,7 +1429,7 @@ select:hover {
     input.col-md-6,
     button.col-md-6 {
         width: 49%;
-        
+        float: left;
     }
 
     input.col-md-6:first-of-type,
