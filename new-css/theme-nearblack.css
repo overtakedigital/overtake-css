@@ -1,7 +1,6 @@
 /*!
 // Contents
 // ------------------------------------------------
-
  1. Global Styles
  2. Mixins
  3. Typography
@@ -38,7 +37,6 @@
  34. Twitter
  35. Footers
  36. Spacing
-
 /*!---------- 1. GLOBAL STYLES ----------*/
 body {
     -webkit-font-smoothing: antialiased;
@@ -107,17 +105,8 @@ hr.short-thick {
 
 
 
-.list-inline>li:last-child {
-    padding-right: 0;
-}
 
-.list-inline>li:first-child {
-    padding-left: 0;
-}
 
-.bg-primary .list-inline i {
-    color: #3b4b5b;
-}
 
 .overflow-hidden {
     overflow: hidden;
