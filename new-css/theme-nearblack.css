@@ -58,7 +58,12 @@ body.boxed-layout .main-container {
     background: #fff;
 }
 
-
+body.boxed-layout,
+.boxed-layout .nav-container,
+.boxed-layout .main-container,
+.boxed-layout nav {
+    max-width: 1366px;
+}
 
 ul {
     list-style: none;
@@ -341,19 +346,19 @@ h6 {
 
 h1,
 .h1 {
-    font-size: 56px;
+    font-size: 156px;
     line-height: 64px;
 }
 
 h1.large {
-    font-size: 72px;
+    font-size: 172px;
     line-height: 80px;
     font-weight: 100;
 }
 
 @media all and (max-width: 990px) {
     h1.large {
-        font-size: 56px;
+        font-size: 156px;
         line-height: 64px;
     }
 }
@@ -2496,7 +2501,14 @@ button[type="submit"] .form-loading {
     margin-bottom: 0;
 }
 
-
+.nav-is-overlay .page-title-1.image-bg:first-child,
+.nav-is-overlay.page-title-1.bg-dark:first-child,
+.nav-is-overlay .page-title-2.image-bg:first-child,
+.nav-is-overlay.page-title-2.bg-dark:first-child {
+    height: 455px;
+    
+    
+}
 
 @media all and (max-width: 767px) {
 
@@ -2517,7 +2529,13 @@ button[type="submit"] .form-loading {
     margin-bottom: 0;
 }
 
-
+.nav-is-overlay .page-title-3.image-bg:first-child,
+.nav-is-overlay.page-title-3.bg-dark:first-child,
+.nav-is-overlay .page-title-4.image-bg:first-child,
+.nav-is-overlay.page-title-4.bg-dark:first-child {
+    height: 295px;
+    
+}
 
 @media all and (max-width: 767px) {
     .page-title .text-right {
@@ -3385,19 +3403,20 @@ img {
 
 .lb-nav a.lb-prev:before {
     content: "\e64a";
-  
+    left: 16px;
 }
 
 .flickr-feed li {
-   
+    width: 25%;
+    padding: 8px;
 }
 
 .flickr-feed li.masonry-item {
-    
+    margin-bottom: 0;
 }
 
 .flickr-feed li img {
-    
+    min-width: 100%;
 }
 
 @media all and (max-width: 990px) {
