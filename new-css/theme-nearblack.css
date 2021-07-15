@@ -103,12 +103,25 @@ hr.short-thick {
     display: inline-block;
 }
 
+.list-inline {
+    margin-left: 0;
+}
 
+.list-inline>li {
+    padding: 0 8px;
+}
 
+.list-inline>li:last-child {
+    padding-right: 0;
+}
 
+.list-inline>li:first-child {
+    padding-left: 0;
+}
 
-
-
+.bg-primary .list-inline i {
+    color: #3b4b5b;
+}
 
 .overflow-hidden {
     overflow: hidden;
@@ -2504,7 +2517,13 @@ button[type="submit"] .form-loading {
     margin-bottom: 0;
 }
 
-
+.nav-is-overlay .page-title-3.image-bg:first-child,
+.nav-is-overlay.page-title-3.bg-dark:first-child,
+.nav-is-overlay .page-title-4.image-bg:first-child,
+.nav-is-overlay.page-title-4.bg-dark:first-child {
+    height: 295px;
+    
+}
 
 @media all and (max-width: 767px) {
     .page-title .text-right {
