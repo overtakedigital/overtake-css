@@ -6018,28 +6018,5 @@ footer.bg-dark a {
 .admin-settings .di-action-bar {
     position: absolute !important;
 }
-media all and (max-width: 767px) {
-    .di-action-bar {
-    display: flex;
-    z-index: 1001;
-    width: 100%;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    flex-wrap: wrap;
-    position: absolute !important;
-    margin-bottom: 110px !important;
-    margin-top: 0;
-}
-    .submenu-indicator.ae-button {
-    margin-bottom: 110px;
-    margin-top: 0;
-}
 
-.di-stacks .di-action-bar,
-.admin-settings .di-action-bar {
-    position: absolute !important;
-    margin-bottom: 110px !important;
-}
-}
 
