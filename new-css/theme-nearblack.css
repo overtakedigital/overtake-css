@@ -6012,8 +6012,20 @@ footer.bg-dark a {
 
 .submenu-indicator.ae-button {
     margin-bottom: 0;
-  }
+}
 
-  .di-stacks .di-action-bar, .admin-settings .di-action-bar {
-      position: absolute !important; 
-  }
+.di-stacks .di-action-bar,
+.admin-settings .di-action-bar {
+    position: absolute !important;
+}
+media all and (max-width: 767px) {
+    .submenu-indicator.ae-button {
+    margin-bottom: 0;
+}
+
+.di-stacks .di-action-bar,
+.admin-settings .di-action-bar {
+    position: absolute !important;
+}
+}
+
