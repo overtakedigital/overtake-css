@@ -6028,7 +6028,7 @@ media all and (max-width: 767px) {
     bottom: 0;
     flex-wrap: wrap;
     position: absolute !important;
-    margin-bottom: 110px;
+    margin-bottom: 110px !important;
     margin-top: 0;
 }
     .submenu-indicator.ae-button {
