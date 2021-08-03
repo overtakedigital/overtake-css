@@ -10,9 +10,6 @@ body {
 
 article,
 aside,
-footer,
-header,
-nav,
 section {
     display: block
 }
@@ -1445,57 +1442,14 @@ textarea {
 
 
 
-.header-sun {
-    position: absolute;
-    top: -88px;
-    right: -60px
-}
 
-.site-header-inner {
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    align-items: center
-}
 
-.header-links {
-    display: inline-flex
-}
 
-.header-links li {
-    display: inline-flex
-}
 
-.header-links a:not(.button) {
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: -.1px;
-    font-weight: 700;
-    color: rgba(255, 255, 255, .8);
-    text-transform: uppercase;
-    text-decoration: none;
-    line-height: 16px;
-    padding: 8px 24px
-}
 
-.header-links a:not(.button):active,
-.header-links a:not(.button):hover {
-    color: #fff
-}
 
-@media (min-width:641px) {
-    .header-sun {
-        left: 440px;
-        right: auto
-    }
-}
 
-@media (min-width:1025px) {
-    .header-sun {
-        left: auto;
-        right: 43%
-    }
-}
+
 
 .hero {
     position: relative;
