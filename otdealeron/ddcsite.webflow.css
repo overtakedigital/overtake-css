@@ -1,3 +1,11 @@
+.container {
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    width: 100%;
+}
+
 .hero-overlay {
   display: -webkit-box;
   display: -webkit-flex;
