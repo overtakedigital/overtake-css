@@ -305,6 +305,7 @@ a {
   background-attachment: scroll, fixed;
 }
 
+
 .tabs-content {
   display: -webkit-box;
   display: -webkit-flex;
@@ -334,7 +335,7 @@ a {
   color: #fff;
 }
 
-.ottabcontent.header {
+.ottabcontent.ottabheader {
   margin-top: 0px;
   font-size: 28px;
 }
