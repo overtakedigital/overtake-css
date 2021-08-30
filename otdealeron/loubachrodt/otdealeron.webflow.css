@@ -1,3 +1,28 @@
+  
+a {
+  text-decoration: underline;
+}
+
+.conditionalBlocks{
+    display: none !important;
+}
+
+.bonusBlock {
+  display: none !important;
+}
+
+.offerBlock {
+  display: none !important;
+}
+
+.container {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    width: 100%;
+}
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
