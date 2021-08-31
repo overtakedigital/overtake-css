@@ -98,8 +98,6 @@ a {
   padding-top: 100px;
   padding-bottom: 100px;
   background-color: #f2f2f2;
-  max-height: 150px;
-  overflow: auto;
 }
 
 .feature-section.otwhybuy {
@@ -791,8 +789,6 @@ a {
     grid-template-rows: auto auto;
     -o-object-fit: fill;
     object-fit: fill;
-      max-height: 100vh;
-    overflow: auto;
   }
 
   .ot-flex-container {
@@ -846,7 +842,6 @@ a {
 
   .ottabssection {
     height: auto;
-    min-height: 100vh;
     padding: 35px 8px;
   }
 
