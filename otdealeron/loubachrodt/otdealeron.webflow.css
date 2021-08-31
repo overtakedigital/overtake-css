@@ -171,6 +171,7 @@ a {
 .button-2 {
   border-radius: 5px;
   text-align: left;
+  color: white;
 }
 
 .otbody {
@@ -831,6 +832,7 @@ a {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
+      color: white;
   }
 
   .ottabslink {
