@@ -409,12 +409,10 @@ a {
   border-color: #7e7e7e;
   border-radius: 5px;
   background-color: rgba(136, 136, 136, 0);
-  color: blue;
   font-size: 16px;
 }
 
 .otbutton.herobtnleft:hover {
-  color: blue;
 }
 
 .section {
