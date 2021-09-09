@@ -30,10 +30,6 @@
   grid-column-gap: 16px;
 }
 
-a {
-  text-decoration: underline;
-}
-
 .hero-overlay {
   position: relative;
   display: -webkit-box;
