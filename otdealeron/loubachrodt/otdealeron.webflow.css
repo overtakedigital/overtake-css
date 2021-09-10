@@ -1,3 +1,8 @@
+
+#content-description{ 
+    display: none !important; 
+}
+
 .conditionalBlocks{
     display: none !important;
 }
