@@ -24,6 +24,12 @@
 }
 */
 
+.container {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    width: 100%;
+}
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
