@@ -393,7 +393,7 @@
 }
 
 .ottabcontent a{
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .ottabcontent {
@@ -408,7 +408,7 @@
 }
 
 .ottabcontent.a {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 .otbutton {
