@@ -410,7 +410,6 @@
   border-style: solid;
   border-width: 1px;
   border-radius: 5px;
-  background-color: rgba(136, 136, 136, 0);
   font-size: 16px;
 }
 
@@ -831,7 +830,7 @@
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-      color: white;
+    
   }
 
   .ottabslink {
