@@ -413,7 +413,6 @@
 }
 
 .otbutton {
-  margin-left: 5px;
   border-radius: 5px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   -webkit-transition: all 200ms cubic-bezier(.25, .46, .45, .94);
