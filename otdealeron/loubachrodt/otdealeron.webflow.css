@@ -24,7 +24,7 @@
 }
 */
 
-.container :not(:first-child), .container :not(:last-child){
+.container :not(:first-of-type), .container :not(:last-of-type){
     padding-right: 0px !important;
     padding-left: 0px !important;
     margin-right: 0px !important;
