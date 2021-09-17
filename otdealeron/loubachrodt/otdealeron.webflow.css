@@ -510,6 +510,10 @@
   width: 50%;
 }
 
+.ot-div-block-3 h2 {
+  text-align: center;
+}
+
 .section-2 {
   display: block;
 }
