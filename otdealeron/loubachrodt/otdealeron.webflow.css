@@ -140,7 +140,7 @@
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
-  gap: 50px;
+  gap: 25px;
 }
 
 .feature-image-mask {
