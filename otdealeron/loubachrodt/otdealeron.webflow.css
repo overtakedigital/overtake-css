@@ -32,6 +32,13 @@
     width: 100%;
 }
 
+.container:last-of-type {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .w-layout-grid {
   display: -ms-grid;
   display: grid;
