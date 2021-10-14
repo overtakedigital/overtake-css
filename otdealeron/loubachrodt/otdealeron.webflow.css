@@ -399,10 +399,11 @@
   -o-object-fit: fill;
   object-fit: fill;
 }
-
+/*
 .ottabcontent a{
     color: #ffffff !important;
 }
+*/
 
 .ottabcontent {
   margin-bottom: 25px;
@@ -415,9 +416,11 @@
   font-size: 24px;
 }
 
+/*
 .ottabcontent.a {
   color: #ffffff !important;
 }
+*/
 
 .otbutton {
   border-radius: 5px;
