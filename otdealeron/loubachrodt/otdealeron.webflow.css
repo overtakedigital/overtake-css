@@ -405,6 +405,11 @@
 }
 */
 
+a:focus, a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
 .ottabcontent {
   margin-bottom: 25px;
   color: #fff;
