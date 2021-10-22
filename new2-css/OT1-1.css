@@ -399,6 +399,9 @@
   object-fit: fill;
 }
 
+.otcolumns w-row a {
+    color: #ffffff !important;
+}
 .ottabcontent a{
     color: #ffffff !important;
 }
