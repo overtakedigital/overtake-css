@@ -670,8 +670,9 @@
   color: #c8c8c8;
 }
 
-.otcolumns {
+.otcolumns, a {
   color: #fff;
+  text-decoration: underline;
 }
 
 .paragraph-2 {
