@@ -63,7 +63,7 @@ $(document).ready(function() {
 
     // Initialize Tooltips
 
-    $('[data-toggle="tooltip"]').tooltip();
+    //$('[data-toggle="tooltip"]').tooltip();
 
     // Icon bulleted lists
 
