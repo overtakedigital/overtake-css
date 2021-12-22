@@ -405,9 +405,13 @@
 }
 */
 
-a:focus, a:hover {
+a:hover {
     color: #fff;
-    text-decoration: underline;
+
+}
+
+a:focus {
+    color: #fff;
 }
 
 .ottabcontent {
