@@ -1612,7 +1612,7 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
-  display: flex;
+  
   align-items: center;
 }
 
@@ -4219,8 +4219,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
   position: relative;
-  min-height: 50px;
-  margin-bottom: 20px;
+ 
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
