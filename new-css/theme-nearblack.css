@@ -1115,7 +1115,7 @@ body.btn-rounded .btn {
     z-index: -1;
 }
 
-/*!---------- 11. FORMS ----------*/
+/*!---------- 11. FORMS ---------- 
 input,
 button,
 select,
@@ -1597,6 +1597,8 @@ button[type="submit"] .form-loading {
         margin-left: 0;
     }
 }
+
+*/
 
 /*!---------- 12. ACCORDIONS ----------*/
 .accordion .title {
