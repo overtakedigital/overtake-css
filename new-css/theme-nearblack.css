@@ -643,11 +643,13 @@ ul.lead li {
 .bg-primary {
     background: #13181d !important;
 }
-.headerRow {
-    background: initial !important;
-      }
-.bg-cta{
-   background: initial !important;
+.sb-section {
+    background: #00324F !important;
+}
+
+ .headerRow--bottom__style1 {
+    background-color: #2198DC !important;
+    border-bottom: 1px solid #4cade4;
 }
 .bg-secondary {
     background: #f8f8f8;
