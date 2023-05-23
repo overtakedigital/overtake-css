@@ -644,10 +644,10 @@ ul.lead li {
     background: #13181d !important;
 }
 .headerRow {
-    background: #2198DC !important;
+    background: inherit !important;
       }
 .bg-cta{
-   background: #00324F !important;
+   background: inherit !important;
 }
 .bg-secondary {
     background: #f8f8f8;
