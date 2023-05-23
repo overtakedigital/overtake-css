@@ -646,6 +646,7 @@ ul.lead li {
 
 .bg-secondary {
     background: #f8f8f8;
+    background-color: #FFFFFF !important;
 }
 
 .bg-white {
