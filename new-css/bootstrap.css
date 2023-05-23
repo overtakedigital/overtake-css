@@ -5841,6 +5841,21 @@ button.list-group-item-danger.active:focus {
 .panel-danger > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #ebccd1;
 }
+.headerRow {
+  background-color: #2198DC !important;
+}
+.icon-box {
+  background-color: #2198DC !important;
+}
+.sb-section  {
+  background: #00324F !important;
+}
+.bg-cta{
+   background: #00324F !important;
+}
+.embed-responsive::before {
+   display: inline !important;
+}
 .embed-responsive {
   position: relative;
   display: block;
