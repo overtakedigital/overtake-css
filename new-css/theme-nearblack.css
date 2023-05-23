@@ -643,7 +643,9 @@ ul.lead li {
 .bg-primary {
     background: #13181d !important;
 }
-
+#headerRow .bg-primary {
+         background: #2198DC !important;
+      }
 .bg-secondary {
     background: #f8f8f8;
     background-color: #FFFFFF !important;
