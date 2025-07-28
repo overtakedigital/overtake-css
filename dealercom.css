@@ -1079,7 +1079,7 @@ strong {
   line-height: 24px;
   letter-spacing: -0.1px;
   list-style: none;
-  padding: 0;
+  padding: 10px 20px;
 }
 .accordion li::before,
 .accordion li::after {
